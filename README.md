@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**viveksaraswat123/viveksaraswat123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Vivek, a final-year Computer Science student with a strong interest in AI, machine learning, and Python.  
+I enjoy building small, practical projects to learn by doing and improve my understanding of real-world applications.
 
-Here are some ideas to get you started:
+### 🔧 Technologies I use:
+- Python, pandas, scikit-learn, NumPy
+- Jupyter, VS Code
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects:
+- Spam SMS Classifier
+- Bollywood Movie Recommender System
+
+### 📫 Reach me at:
+[LinkedIn](https://www.linkedin.com/in/saraswat-vivek/) • [GitHub](https://github.com/viveksaraswat123)
