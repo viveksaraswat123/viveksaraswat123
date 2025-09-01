@@ -3,7 +3,7 @@
 I'm Vivek, a final-year Computer Science student passionate about AI, Machine Learning, Data Analytics, and Software Development.
 I believe in learning by building, creating practical projects that solve real-world problems while sharpening my technical skills.
 
-🔧 ## Technologies I Work With
+🔧 ##Technologies I Work With
 
 • Languages & Libraries: Python, pandas, NumPy, scikit-learn
 • Data Visualization & Dashboards: Power BI, Tableau
