@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-I'm Vivek, a final-year Computer Science student with a strong interest in AI, machine learning, and Python.  
-I enjoy building small, practical projects to learn by doing and improve my understanding of real-world applications.
+I'm Vivek, a final-year Computer Science student passionate about AI, Machine Learning, Data Analytics, and Software Development.
+I believe in learning by building, creating practical projects that solve real-world problems while sharpening my technical skills.
 
-### 🔧 Technologies I use:
-- Python, pandas, scikit-learn, NumPy
-- Jupyter, VS Code
-- Git & GitHub
+🔧 Technologies I Work With
 
-### 📌 Projects:
-- Spam SMS Classifier
-- Bollywood Movie Recommender System
+• Languages & Libraries: Python, pandas, NumPy, scikit-learn
+• Data Visualization & Dashboards: Power BI, Tableau
+• Tools: Streamlit, Jupyter, Git & GitHub, VS Code
+• Web Development: React.js, HTML, CSS, JavaScript, SQL, Excel
 
-### 📫 Reach me at:
-[LinkedIn](https://www.linkedin.com/in/saraswat-vivek/) • [GitHub](https://github.com/viveksaraswat123)
+📌 Featured Projects
+
+• ⭐ Spam SMS Classifier — A Naive Bayes-based Python model for classifying SMS messages as spam or ham.
+• ⭐ Bollywood Movie Recommender System — A recommendation engine tailored for Bollywood films using collaborative filtering techniques.
+• ⭐ Hospital Patient Analytics Dashboard — An interactive Power BI dashboard analyzing patient data from 2019 to 2024.
+• ⭐ EV Charging Stations Dashboard — Tableau-powered insights visualizing EV charging infrastructure using mock datasets.
+• ⭐ Inventory & POS System — A Streamlit-based app for inventory, sales, customer, and supplier management with PDF generation and Excel import/export support.
+
+📫 Connect With Me
+
+• LinkedIn
+
+• GitHub
