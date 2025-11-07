@@ -39,7 +39,7 @@ I build practical ML systems, data dashboards, and backend services — learning
 
 ## 🌟 Featured Projects (backend-focused)
 
-> Replace `REPO_URL` placeholders with your real repo links and add metrics (accuracy, users, requests/sec) where available.
+
 
 ### 1. Inventory & POS System — *Fullstack (Streamlit UI + FastAPI backend)*  
 **Stack:** Streamlit frontend · **FastAPI** backend · SQLAlchemy · **PostgreSQL** · Docker · JWT auth  
