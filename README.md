@@ -7,6 +7,8 @@ I build practical ML systems, data dashboards, and backend services — learning
 
 <!-- Badges (replace or remove any you don't want) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saraswat-vivek)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Connect-orange?logo=leetcode&logoColor=white)](https://leetcode.com/viveksaraswat123)
+
 [![Email](https://img.shields.io/badge/Email-viveksaraswat49@gmail.com-red?logo=gmail&logoColor=white)](mailto:viveksaraswat49@gmail.com)
 [![Python](https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white)](#)
 [![FastAPI](https://img.shields.io/badge/FastAPI-%2300ABD1.svg?logo=fastapi&logoColor=white)](#)
