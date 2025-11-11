@@ -8,11 +8,17 @@ I build practical ML systems, data dashboards, and backend services — learning
 <!-- Badges (replace or remove any you don't want) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saraswat-vivek)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Connect-orange?logo=leetcode&logoColor=white)](https://leetcode.com/viveksaraswat123)
-
 [![Email](https://img.shields.io/badge/Email-viveksaraswat49@gmail.com-red?logo=gmail&logoColor=white)](mailto:viveksaraswat49@gmail.com)
 [![Python](https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white)](#)
 [![FastAPI](https://img.shields.io/badge/FastAPI-%2300ABD1.svg?logo=fastapi&logoColor=white)](#)
 [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Expert-orange?logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-brightgreen?logo=pytorch&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
+
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%230073B3.svg?logo=postgresql&logoColor=white)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white)](#)
 [![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?logo=streamlit&logoColor=white)](#)
@@ -113,6 +119,6 @@ I build practical ML systems, data dashboards, and backend services — learning
 ## 🤝 Let’s collaborate / Contact
 - LinkedIn: https://www.linkedin.com/in/saraswat-vivek  
 - Email: viveksaraswat49@gmail.com  
-- GitHub: https://github.com/viveksaraswat123
+- LeetCode: https://leetcode.com/viveksaraswat123
 
 ---
