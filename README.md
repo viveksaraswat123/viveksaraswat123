@@ -86,7 +86,7 @@ I learn by building. Then I ship.
 **Tech:** RAG-based NLP · FastAPI backend · Streamlit UI  
 - Answers disease & treatment-related queries
 - Embedding search + summarized medical responses  
-🔗 *Repo link (add when public)*
+🔗 *https://github.com/viveksaraswat123?tab=repositories*
 
 ---
 
@@ -94,7 +94,7 @@ I learn by building. Then I ship.
 **Tech:** Python NLP pipeline · Speech-to-Text · Text-to-Speech  
 - Voice command execution, note-taking, info retrieval
 - Modular agent design → new skills plug-in easily  
-🔗 *Repo link (add when public)*
+🔗 *https://github.com/viveksaraswat123/VICTOR---AI-ASSISTANT*
 
 ---
 
@@ -102,7 +102,7 @@ I learn by building. Then I ship.
 **Tech:** OpenCV · Deep Learning · CNN models  
 - Detects face landmarks + expression classification
 - Future extension: age/gender inference, real-time feed  
-🔗 *Repo link (add when public)*
+🔗 *https://github.com/viveksaraswat123/face_analysis*
 
 ---
 
