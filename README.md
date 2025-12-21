@@ -1,136 +1,78 @@
-# 👋 Hi, I’m **Vivek Saraswat**
+# 👋 Hi, I’m Vivek Saraswat
 
-Final-year **B.Tech CSE** student working in **AI, Machine Learning, and Full-Stack Development**.  
-I love building practical systems — from data pipelines and ML models to secure backend services and real-time applications.
+Final-year **B.Tech Computer Science** student with a strong inclination towards **Backend Development** and **Applied Machine Learning**.  
+I enjoy understanding how real-world systems are designed, deployed, and maintained — not just how they work in theory.
 
-I learn by building. Then I ship.
-
----
-
-### 🌍 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saraswat-vivek)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white)](https://leetcode.com/viveksaraswat123)
-[![Email](https://img.shields.io/badge/Email-viveksaraswat49@gmail.com-red?logo=gmail&logoColor=white)](mailto:viveksaraswat49@gmail.com)
+I focus on writing clean backend code, building reliable APIs, and learning how to deploy and run applications in production-like environments.
 
 ---
 
-## 🔧 What I Build
+## 🌐 Connect with Me
 
-- End-to-end ML applications (data → model → API → UI)
-- Backend systems using FastAPI / Django with secure auth & roles
-- Analytics dashboards using Power BI / Streamlit / Tableau
-- Real-time apps using WebSockets, asynchronous patterns
-- AI-powered assistants, chatbots & model-serving pipelines
+- **LinkedIn:** https://www.linkedin.com/in/saraswat-vivek  
+- **LeetCode:** https://leetcode.com/viveksaraswat123  
+- **Email:** mailto:viveksaraswat49@gmail.com  
 
 ---
 
-## 🛠 Core Tech Stack
+## 🧑‍💻 Technical Skills
 
-**Languages:** Python · SQL · JavaScript  
-**Backend:** FastAPI · Django · DRF · REST · GraphQL (basics)  
-**Databases & ORM:** PostgreSQL · MongoDB · SQLAlchemy · Alembic · Django ORM  
-**Distributed & Async:** Celery · WebSockets · asyncio · uvicorn  
-**DevOps:** Docker · Git · GitHub Actions · Nginx · systemd  
-**AI/ML:** scikit-learn · Pandas · NumPy · NLP pipelines · Computer Vision  
-**Data/Visualization:** Streamlit · Power BI · Tableau  
+### Programming
+- Python  
+- SQL  
+- JavaScript (basics)
 
----
+### Backend Development
+- FastAPI  
+- Django  
+- RESTful API design  
+- Basic authentication & authorization
 
-## 📂 Featured Projects
+### Databases
+- PostgreSQL  
+- MongoDB  
+- SQLAlchemy ORM
 
-### 🟩 1. Inventory & POS System — *Full-Stack*
-**Tech:** FastAPI · Streamlit · PostgreSQL · SQLAlchemy · Docker  
-- Billing, stock, product API
-- Role-based auth + PDF invoice generator
-- Alembic migrations + CI pipeline  
-🔗 `github.com/viveksaraswat123/inventory-pos-system`
+### Machine Learning & Data
+- Pandas  
+- NumPy  
+- scikit-learn (fundamentals)
 
----
+### Data Visualization
+- Power BI  
+- Streamlit
 
-### 🟩 2. Spam SMS Classifier — *ML + API Serving*
-**Tech:** scikit-learn · FastAPI · Docker  
-- Naive Bayes model with text preprocessing
-- `/predict` API with validation + sanitization  
-🔗 `github.com/viveksaraswat123/spam-sms-classifier`
+### Deployment & DevOps (Basics)
+- Docker (containerization basics)  
+- Nginx (basic reverse proxy setup)  
+- Linux (command-line usage)  
+- systemd (service configuration basics)  
+- CI/CD fundamentals
 
----
-
-### 🟩 3. Bollywood Recommender System — *ML + API + Frontend*
-**Tech:** Django REST · React · PostgreSQL · Celery  
-- Collaborative filtering based suggestions
-- Background job for similarity updates  
-🔗 `github.com/viveksaraswat123/bollywood-recommender`
-
----
-
-### 🟩 4. Hospital Patient Analytics Dashboard — *ETL + BI*
-**Tech:** Pandas → PostgreSQL → Power BI / Streamlit  
-- KPI trends from multi-year medical data
-- Automatic refresh + FastAPI data endpoints  
-🔗 `github.com/viveksaraswat123/hospital-patient-analytics`
+### Tools
+- Git  
+- GitHub
 
 ---
 
-### 🟩 5. Real-Time IoT Accident Alert System
-**Tech:** FastAPI WebSockets · MQTT · MongoDB  
-- Instant alert broadcasting + event logging  
-- Time-series incident storage  
-🔗 `github.com/viveksaraswat123/iot-accident-alert`
+## 🎯 Current Focus
+
+- Writing maintainable and scalable backend code  
+- Deploying small to mid-scale applications  
+- Strengthening core ML and data engineering fundamentals  
+- Improving system design understanding at a beginner level
 
 ---
 
-## 🔥 Recent Projects (AI-focused)
+## 📬 Open to Opportunities
 
-### 🤖 Medical Chatbot — *Healthcare QA Model*
-**Tech:** RAG-based NLP · FastAPI backend · Streamlit UI  
-- Answers disease & treatment-related queries
-- Embedding search + summarized medical responses  
-🔗 *https://github.com/viveksaraswat123?tab=repositories*
+Actively looking for **internship** or **entry-level** roles in:
+- Backend Development
+- Python Development
+- Data / Machine Learning Engineering
 
----
-
-### 🧠 Victor AI Assistant — *Personal LLM-Powered Assistant*
-**Tech:** Python NLP pipeline · Speech-to-Text · Text-to-Speech  
-- Voice command execution, note-taking, info retrieval
-- Modular agent design → new skills plug-in easily  
-🔗 *https://github.com/viveksaraswat123/VICTOR---AI-ASSISTANT*
+📧 **viveksaraswat49@gmail.com**
 
 ---
 
-### 👁 Face Analysis & Emotion Detection
-**Tech:** OpenCV · Deep Learning · CNN models  
-- Detects face landmarks + expression classification
-- Future extension: age/gender inference, real-time feed  
-🔗 *https://github.com/viveksaraswat123/face_analysis*
 
----
-
-## ⚙ My Backend Philosophy
-
-- Clear modular structure → `routers / services / schemas / models`
-- Pydantic for strict validation & typed APIs
-- Alembic migrations for database version control
-- Docker for reproducible environments
-- CI pipelines → Lint + test before merge
-- `/health` + monitoring endpoints for reliability
-
----
-
-## 📈 Currently Exploring
-
-- ML model serving with versioning & monitoring
-- Distributed processing, message queues, microservices
-- Contribution to open-source backend / infra tools
-
----
-
-## 🤝 Collaborations Welcome
-
-📩 **viveksaraswat49@gmail.com**  
-🔗 **linkedin.com/in/saraswat-vivek**
-
-Backend roles · ML engineering · AI product development  
-Always open to new ideas & projects.
-
----
