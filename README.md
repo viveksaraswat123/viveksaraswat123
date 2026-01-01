@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Vivek Saraswat
+#  Hi, I’m Vivek Saraswat
 
 Final-year **B.Tech Computer Science** student with a strong inclination towards **Backend Development** and **Applied Machine Learning**.  
 I enjoy understanding how real-world systems are designed, deployed, and maintained — not just how they work in theory.
@@ -19,39 +19,38 @@ I focus on writing clean backend code, building reliable APIs, and learning how 
 
 ### Programming
 - Python  
-- SQL  
 - JavaScript (basics)
 
 ### Backend Development
 - FastAPI  
 - Django  
 - RESTful API design  
-- Basic authentication & authorization
+- Authentication & authorization
 
 ### Databases
-- PostgreSQL  
+- PostgreSQL
+- SQL
 - MongoDB  
 - SQLAlchemy ORM
 
 ### Machine Learning & Data
-- Pandas  
+- Pandas
+- LSTM
+- Predictive Analysis
 - NumPy  
 - scikit-learn (fundamentals)
 
-### Data Visualization
-- Power BI  
-- Streamlit
-
 ### Deployment & DevOps (Basics)
-- Docker (containerization basics)  
+- Docker (containerization )  
 - Nginx (basic reverse proxy setup)  
 - Linux (command-line usage)  
-- systemd (service configuration basics)  
+- Systemd (service configuration basics)  
 - CI/CD fundamentals
 
 ### Tools
 - Git  
 - GitHub
+- Postman
 
 ---
 
