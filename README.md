@@ -1,7 +1,7 @@
 #  Hi, I’m Vivek Saraswat
 
 Final-year **B.Tech Computer Science** student with a strong inclination towards **Backend Development** and **Applied Machine Learning**.  
-I enjoy understanding how real-world systems are designed, deployed, and maintained — not just how they work in theory.
+I enjoy understanding how real-world systems are designed, deployed, and maintained - not just how they work in theory.
 
 I focus on writing clean backend code, building reliable APIs, and learning how to deploy and run applications in production-like environments.
 
@@ -19,7 +19,7 @@ I focus on writing clean backend code, building reliable APIs, and learning how 
 
 ### Programming
 - Python  
-- JavaScript (basics)
+- JavaScript
 
 ### Backend Development
 - FastAPI  
@@ -38,7 +38,7 @@ I focus on writing clean backend code, building reliable APIs, and learning how 
 - LSTM
 - Predictive Analysis
 - NumPy  
-- scikit-learn (fundamentals)
+- scikit-learn
 
 ### Deployment & DevOps (Basics)
 - Docker (containerization )  
@@ -51,6 +51,8 @@ I focus on writing clean backend code, building reliable APIs, and learning how 
 - Git  
 - GitHub
 - Postman
+- Jupyter
+- GitLab
 
 ---
 
